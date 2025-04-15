@@ -39,5 +39,5 @@ def divide(a,b):
 add(10,15)
 subtract(15,10)
 multiply(10,20)
-divide(20,0)
+divide(20,2)
 
